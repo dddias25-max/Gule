@@ -1,0 +1,6 @@
+{
+  "name": "Conferência de Carcaças",
+  "description": "Aplicativo para conferência diária do recebimento de carcaças com cálculo automático de peso líquido (Traseiro e Dianteiro) e diferença de Nota Fiscal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
